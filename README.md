@@ -50,6 +50,12 @@ earth-globe.html   ← the entire project, one file
 
 The "aurora" is a stylized fake, the globe spins faster than reality, and the quiz judge is merciless. Proceed knowing the orbit knows all.
 
+<img width="1913" height="963" alt="1" src="https://github.com/user-attachments/assets/b1274f96-74d3-43e8-95e6-8fad1ebc53fd" />
+
+<img width="1913" height="963" alt="2" src="https://github.com/user-attachments/assets/8bfb031d-ba3f-4776-a79f-fa616c8a5dd9" />
+
+
+
 ## 📄 License
 
 MIT
